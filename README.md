@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Lyon! 
 
-<!--
-**LyonYrd/LyonYrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full Stack Developer | Open Source Enthusiast
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on some cool open-source projects.
+- 🌱 I’m currently learning advanced system architecture and AI integration.
+- 💬 Ask me about: Web Development, Tech Stacks, or Entrepreneurship.
+- 📫 How to reach me: yangliu.yrdad@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+![Lyon's GitHub stats](https://github-readme-stats.vercel.app/api?username=LyonYrd&show_icons=true&theme=radical)
