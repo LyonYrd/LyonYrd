@@ -6,8 +6,7 @@
 - 🌱 I’m currently learning advanced system architecture and AI integration.
 - 💬 Ask me about: Web Development, Tech Stacks, or Entrepreneurship.
 - 📫 How to reach me: [yangliu.yrdad@gmail.com](mailto:yangliu.yrdad@gmail.com)
-- 📄 Check out my **[Online Resume](https://online-cv-sable.vercel.app/)**
-  [![View Resume](https://img.shields.io/badge/View-My%20Resume-black?style=for-the-badge&logo=vercel&logoColor=white)](https://online-cv-sable.vercel.app/)
+- 📄 Check out my **[Online Resume](https://online-cv-sable.vercel.app/)** ![Resume](https://img.shields.io/badge/Live-Demo-0366d6?style=flat&logo=vercel&logoColor=white)
 
 ---
 
