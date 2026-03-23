@@ -5,7 +5,9 @@
 - 🔭 I’m currently working on some cool open-source projects.
 - 🌱 I’m currently learning advanced system architecture and AI integration.
 - 💬 Ask me about: Web Development, Tech Stacks, or Entrepreneurship.
-- 📫 How to reach me: yangliu.yrdad@gmail.com
+- 📫 How to reach me: [yangliu.yrdad@gmail.com](mailto:yangliu.yrdad@gmail.com)
+- 📄 Check out my **[Online Resume](你的Vercel地址)**
+  [![View Resume](https://img.shields.io/badge/View-My%20Resume-black?style=for-the-badge&logo=vercel&logoColor=white)](你的Vercel地址)
 
 ---
 
